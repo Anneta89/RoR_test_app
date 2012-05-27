@@ -1,3 +1,3 @@
-source :rubygems
-
-gem 'rails', '3.0.9'
+source 'http://rubygems.org'
+gem 'rails'
+gem 'sqlite3'
